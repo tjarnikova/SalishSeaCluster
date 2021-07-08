@@ -5,7 +5,7 @@ Salish Sea MEOPAR NEMO-3.6 Code
 
 This is the NEMO-3.6 code used by the Salish Sea MEOPAR project.
 
-This repository is intended to archive model code used in the associated research paper..
+This repository is intended to archive model code used in the associated research paper.
 The cannonical NEMO code repository is accessible at http://www.nemo-ocean.eu/.
 
 Details of how this repo is synchronized with the main NEMO svn repository,
